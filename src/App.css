@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.Main{
+  background-color: blue;
+  width: 50%;
+  height: 43rem;
+}
+.Main a{
+  display: block;
+}
