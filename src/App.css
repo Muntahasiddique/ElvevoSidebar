@@ -1,9 +1,15 @@
 @import "tailwindcss";
-.Main{
+.App{
   background-color: blue;
-  width: 50%;
-  height: 43rem;
+  width: 100vw;
+  height: 100vh;
 }
-.Main a{
-  display: block;
+body{
+  margin: 0;
+  padding: 0;
+}
+.sidebar{
+  height: 100%;
+  width: 250px;
+  background-color: #2F4050;
 }
