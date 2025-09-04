@@ -32,6 +32,7 @@ function App() {
         <Sidebardata icon={<FlagIcon  size={20} />} text="Reporting" />
         <Sidebardata icon={<MessageIcon size={20} />} text="Messages" alert />
         <Sidebardata icon={<NotificationsNoneIcon  size={20} />} text="Notifications" />
+  
 </Sidebar>
 
    </div>
